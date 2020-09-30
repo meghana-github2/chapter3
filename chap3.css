@@ -1,0 +1,113 @@
+body {
+    background-color: lightgrey;
+  }
+  
+  
+  a {
+  align:right;
+  }
+  
+  h1 {
+  background-color:#000006;
+  color:white; 
+  font-size:30px";
+  }
+  
+  p.groove {
+  border-style: groove;
+  background: darkgrey;
+  }
+  
+  h2 {
+  background-color:#000006;
+  color:white; 
+  font-size:30px";
+  }
+  
+  h3 {
+  background-color:#000006;
+  color:white; 
+  font-size:30px";
+  }
+  .btn {
+    background-color: grey;/* Blue background */
+    border: none; /* Remove borders */
+    color: black; /* White text */
+    padding: 8px 8px; /* Some padding */
+    font-size: 8px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  .btn:hover {
+    background-color: grey;
+  }
+  h4 {
+  background-color:#000006;
+  color:white; 
+  font-size:30px";
+  }
+  
+  .btn1 {
+    background-color:Grey;
+    border: none;
+    color: white;
+    padding: 8px 8px;
+    font-size: 8px;
+    cursor: pointer;
+  }
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: Grey;
+  }
+  
+  h5{
+  "religion":1
+  "population":50;
+     
+     "y0":0,
+     "y" :39;
+  }
+  
+  .axis text {
+          font-family: 'Open Sans', sans-serif;
+          font-size: 12pt;
+  }
+  .axis .label {
+          font-size: 20pt;
+  }
+  .axis path, .axis line {
+          fill: none;
+          stroke: #000;
+          shape-rendering: crispEdges;
+  }
+  
+      </style>
+  
+  {
+     country:2;
+  y:2;
+  }
+  {
+     country:3;
+  }
+  {
+     country:4;
+  }
+  {
+     country:5;
+  }
+  {
+     country:6;
+  }
+  {
+     country:7;
+  }
+  {
+     country:8;
+  }
+  {
+     country:9;
+  }
+  {
+     country:10;
+  }
+  
